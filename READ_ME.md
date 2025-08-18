@@ -1,6 +1,3 @@
-Here’s a clear English version of your text:
-
----
 
 In this project, you will find the code and pretrained model that allow you to reproduce the results presented in the paper.
 
